@@ -1,3 +1,3 @@
 # hello-world
-First try
-making first steps in programming
+First try!
+Making first steps in programming
